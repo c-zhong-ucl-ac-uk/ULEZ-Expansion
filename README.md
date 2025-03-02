@@ -1,4 +1,4 @@
-# Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion
+# Spatial Heterogeneity in Human Mobility Responses to London's ULEZ Expansion
 
 This repository contains code and data supporting the paper **Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion** by [Yikang Wang](https://yikang.wang/) and [Dr Chen Zhong](https://profiles.ucl.ac.uk/46973).
 
@@ -13,8 +13,9 @@ The repository is organised as follows:
     -   **`Census Data/`**: Socioeconomic indicators from the 2021 UK Census (aggregated at MSOA/LAD levels).
     -   **`PTAL/`**: Public Transport Accessibility Level (PTAL) and Index (PTAI) data, aggregated at MSOA and LAD levels.
     -   **`fuel price/`**: Weekly fuel price data. This dataset was excluded from final analysis due to multicollinearity.
+    -   **`UK Geo Data/`**: UK MSOA boundary data.
 -   **Output**:
-    -   **`results/`**: Processed model outputs, including merged tables and results referenced in the paper.
+    -   **`results/`**: Processed model outputs, including merged tables and figures referenced in the paper.
 
 ## Usage
 
