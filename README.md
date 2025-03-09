@@ -1,6 +1,6 @@
 # Spatial Heterogeneity in Human Mobility Responses to London's ULEZ Expansion
 
-This repository contains code and data supporting the paper **Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion** by [Yikang Wang](https://yikang.wang/) and [Dr Chen Zhong](https://profiles.ucl.ac.uk/46973).
+This repository contains code and data supporting the paper [**Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168417) by [Yikang Wang](https://yikang.wang/) and [Dr Chen Zhong](https://profiles.ucl.ac.uk/46973).
 
 ## Repository Structure
 
