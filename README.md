@@ -1,6 +1,6 @@
 # Spatial Heterogeneity in Human Mobility Responses to London's ULEZ Expansion
 
-This repository contains code and data supporting the paper [**Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5168417) by [Yikang Wang](https://yikang.wang/) and [Dr Chen Zhong](https://profiles.ucl.ac.uk/46973).
+This repository contains code and data supporting the paper [**Spatial Heterogeneity in Human Mobility Responses to London's Ultra-Low Emission Zone Expansion**](https://www.sciencedirect.com/science/article/pii/S1361920925002202) by [Yikang Wang](https://yikang.wang/) and [Dr Chen Zhong](https://profiles.ucl.ac.uk/46973).
 
 ## Repository Structure
 
@@ -20,3 +20,21 @@ The repository is organised as follows:
 ## Usage
 
 Execute `Extended ITS.ipynb` using Jupyter Notebook. Ensure required Python dependencies are installed (full list in `requirements.txt`).
+
+## Citation
+
+Wang, Y., & Zhong, C. (2025). Spatial heterogeneity in human mobility responses to London’s ultra-low emission zone expansion. *Transportation Research Part D: Transport and Environment*, *145*, 104810. https://doi.org/10.1016/j.trd.2025.104810
+
+**BibTeX:**
+
+```bibtex
+@article{Wang2025ULEZ,
+  title   = {Spatial heterogeneity in human mobility responses to {London's} ultra-low emission zone expansion},
+  author  = {Wang, Yikang and Zhong, Chen},
+  journal = {Transportation Research Part D: Transport and Environment},
+  volume  = {145},
+  pages   = {104810},
+  year    = {2025},
+  issn    = {1361-9209},
+  doi     = {https://doi.org/10.1016/j.trd.2025.104810}
+}
